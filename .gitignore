@@ -1,0 +1,23 @@
+# --- Sensitive Files ---
+encrypted_seed.txt
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environments ---
+venv/
+.venv/
+
+# --- Environment Config ---
+.env
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS/System files ---
+.DS_Store
+Thumbs.db
